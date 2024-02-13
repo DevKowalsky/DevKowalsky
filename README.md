@@ -25,11 +25,11 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img alt="Bernardo-CSS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img alt="Bernardo-TAILWIND" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
+  <code><img alt="Bernardo-TAILWIND" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img alt="Bernardo-PHP" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"></code>
+  <code><img alt="Bernardo-PHP" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img alt="Bernardo-LARAVEL" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"></code>
+  <code><img alt="Bernardo-LARAVEL" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img alt="Bernardo-MYSQL" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
