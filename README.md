@@ -45,8 +45,14 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img alt="Bernardo-AWS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img alt="Bernardo-ARDUINO" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"></code>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img alt="Bernardo-RASPBERRY" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"></code>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><picture><source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/github?theme=dark&size=128"/><img alt="github" title="github" src="https://deviconapi.vercel.app/github?theme=light&size=128" height="40"/></picture></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img alt="Bernardo-FIGMA" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <code><img alt="Bernardo-NVIM" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"></code>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
