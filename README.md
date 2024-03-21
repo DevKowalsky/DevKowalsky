@@ -9,7 +9,7 @@
  
  ## Code stats 📊
  <p align="center">
- <img align="center" src="https://streak-stats.demolab.com/?user=Z3r0Duck&theme=github-dark&count_private=true">
+ <img align="center" src="https://streak-stats.demolab.com/?user=DevKowalsky&theme=github-dark&count_private=true">
 </p>
  
  ## Skills 🎯
