@@ -2,7 +2,7 @@
  ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
  
   ## About me 👨‍💻
- - Entrepreneur;
+ - Businessman;
  - Computer Science student;
  - Fullstack developer;
  - Cloud infrastructure knowledge;
